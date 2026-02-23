@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "竹取オーバーナイトセンセーション（feat. 96猫、レジ）",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-02-23T06:05:06.368331Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "竹取オーバーナイトセンセーション (feat. 96猫 & レジ)",
+      "artist": "HoneyWorks, 96猫, レジ",
+      "has_synced": false,
+      "path": "select/pl_01_竹取オーバーナイトセンセーション_(feat._96猫_&_レジ)_HoneyWorks,_96猫,_レジ.txt"
+    }
+  ]
+}
